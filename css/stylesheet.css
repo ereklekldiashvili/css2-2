@@ -1,0 +1,235 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header-conteiner {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+    padding: 12px 80px;
+
+
+}
+
+#nav-conteiner {
+    width: 980px;
+
+
+}
+
+#img-conteiner {
+    padding: 13.49px;
+    display: inline-block;
+
+}
+
+#div-conteiner {
+    display: inline-block;
+    margin-left: 176.17px;
+    max-width: 349px;
+
+}
+
+#list1 {
+    display: inline-block;
+    color: #FF5DA3;
+    font-size: 18px;
+}
+
+#list2 {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#list3 {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 18px;
+}
+
+#list4 {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#list5 {
+    display: inline-block;
+    margin-left: 176.17px;
+    border-radius: 8px;
+    background: #00AC25;
+    width: 105px;
+    padding: 8px 16px;
+    vertical-align: middle;
+    align-items: center;
+    text-align: center;
+
+}
+
+#Contact_us {
+    color: #FFF;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#contact {
+    text-align: center;
+    font-size: 72px;
+    margin-top: 233px;
+    width: 1316px;
+    height: 174px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 700;
+}
+
+#contact1 {
+    color: #FF5DA3;
+    font-weight: 700;
+}
+
+#contact2 {
+    max-width: 1316px;
+    height: 64px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+    font-weight: 400;
+
+}
+
+#contact3 {
+
+    text-align: center;
+    font-size: 24px;
+}
+
+#contact4 {
+    max-width: 1316px;
+    height: 59px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+}
+
+
+
+#contact5 {
+    color: #000;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+#contact6 {
+    max-width: 716px;
+    height: 96px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#contact7 {
+    color: #6941C6;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 24px;
+}
+
+#contact8 {
+    max-width: 233px;
+    height: 54px;
+    margin: 0 auto;
+}
+
+#contact9 {
+    display: inline-block;
+    
+    border-radius: 8px;
+    background: #00AC25;
+    padding: 16px 24px;
+    align-items: center;
+    text-align: center;
+    margin-top: 24px;
+}
+
+#name{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+
+#team {
+    display: inline-block;
+    margin-left: 213px;
+    color: #E9D7FE;
+}
+
+#team1 {
+    display: inline-block;
+    color: #E9D7FE;
+    margin-left: 32px;
+
+
+}
+
+#team2 {
+    display: inline-block;
+    color: #E9D7FE;
+    margin-left: 32px;
+}
+
+#team3 {
+    display: inline-block;
+    color: #E9D7FE;
+    margin-left: 32px;
+}
+
+#team4 {
+    display: inline-block;
+    color: #E9D7FE;
+    margin-left: 32px;
+}
+
+#team5 {
+    display: inline-block;
+    color: #E9D7FE;
+    margin-left: 32px;
+}
+
+#team6 {
+    display: inline-block;
+    color: #E9D7FE;
+    margin-left: 192px;
+}
+
+#logo {
+    vertical-align: middle;
+    margin-left: 32px;
+
+}
+
+#contact10 {
+    width: 1920px;
+    background-color: #6941C6;
+    margin-top: 535px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    width: 100%;
+}
+
+#Document {
+    max-width: 1216px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+#Document1 {
+    display: inline-block;
+    vertical-align: middle;
+}
